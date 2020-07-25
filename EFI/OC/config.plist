@@ -211,16 +211,10 @@
 				<data>PpsABw==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
 				<key>framebuffer-con0-enable</key>
-				<string>01000000</string>
-				<key>framebuffer-con1-enable</key>
 				<string>01000000</string>
 				<key>framebuffer-con0-alldata</key>
 				<data>AQEJAAQAAADHAwAA</data>
-				<key>framebuffer-con1-alldata</key>
-				<data>AQIJAAAIAADHAwAA</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
