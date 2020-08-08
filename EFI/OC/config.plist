@@ -211,8 +211,11 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AwCRPg==</data>
-				<key>model</key>
-				<string>Intel UHD Graphics 630 (Desktop 9 Series)</string>
+			</dict>
+			<key>PciRoot(0x32)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>shikvga</key>
+				<integer>80</integer>
 			</dict>
 		</dict>
 		<key>Delete</key>
